@@ -6,7 +6,7 @@ This is a Collection of Modules we use in our company to manage our Office 365 a
 
 > This Collection is hard in Development, maybe use it as reference only
 
-> Merge requests are welcome!
+> PRs are welcome!
 
 ## Requirements
 
